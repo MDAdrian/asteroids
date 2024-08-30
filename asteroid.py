@@ -1,7 +1,6 @@
 
 import pygame
 from circleshape import CircleShape
-from constants import ASTEROID_SPEED
 
 
 class Asteroid(CircleShape):
